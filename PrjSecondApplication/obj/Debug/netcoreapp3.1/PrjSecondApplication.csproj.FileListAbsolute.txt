@@ -1,0 +1,13 @@
+C:\Users\hriti\source\repos\PrjSecondApplication\PrjSecondApplication\bin\Debug\netcoreapp3.1\PrjSecondApplication.exe
+C:\Users\hriti\source\repos\PrjSecondApplication\PrjSecondApplication\bin\Debug\netcoreapp3.1\PrjSecondApplication.deps.json
+C:\Users\hriti\source\repos\PrjSecondApplication\PrjSecondApplication\bin\Debug\netcoreapp3.1\PrjSecondApplication.runtimeconfig.json
+C:\Users\hriti\source\repos\PrjSecondApplication\PrjSecondApplication\bin\Debug\netcoreapp3.1\PrjSecondApplication.runtimeconfig.dev.json
+C:\Users\hriti\source\repos\PrjSecondApplication\PrjSecondApplication\bin\Debug\netcoreapp3.1\PrjSecondApplication.dll
+C:\Users\hriti\source\repos\PrjSecondApplication\PrjSecondApplication\bin\Debug\netcoreapp3.1\PrjSecondApplication.pdb
+C:\Users\hriti\source\repos\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.csproj.AssemblyReference.cache
+C:\Users\hriti\source\repos\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.AssemblyInfoInputs.cache
+C:\Users\hriti\source\repos\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.AssemblyInfo.cs
+C:\Users\hriti\source\repos\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.csproj.CoreCompileInputs.cache
+C:\Users\hriti\source\repos\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.dll
+C:\Users\hriti\source\repos\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.pdb
+C:\Users\hriti\source\repos\PrjSecondApplication\PrjSecondApplication\obj\Debug\netcoreapp3.1\PrjSecondApplication.genruntimeconfig.cache
